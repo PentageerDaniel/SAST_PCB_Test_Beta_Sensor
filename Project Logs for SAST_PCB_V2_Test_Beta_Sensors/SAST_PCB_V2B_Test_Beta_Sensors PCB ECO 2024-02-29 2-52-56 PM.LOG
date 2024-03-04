@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=NetC1_2 New Net Name=5V_SW
+Change Net Name : Old Net Name=NetC7_1 New Net Name=Gyro_RAW
+Change Net Name : Old Net Name=NetC12_1 New Net Name=Gyro_Buf
+Change Net Name : Old Net Name=NetC14_2 New Net Name=Gyro_Ref_4096
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=CAN_PWR
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=CANL
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=CANH
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=UART2_RX_3V3
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=UART2_TX_3V3
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=Gyro_Ref_2048
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=CS_GYRO
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=Gyro_CONV
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=MISO1
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=SCK1
+Change Net Name : Old Net Name=NetJ15_1 New Net Name=MOSI1
+Change Net Name : Old Net Name=NetJ16_1 New Net Name=CS_LG2
+Change Net Name : Old Net Name=NetJ17_1 New Net Name=CS_LG1

@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SAST_PCB_V2B_Test_Beta_Sensors.PcbDoc   2024-03-01  1:48:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SAST_PCB_V2B_Test_Beta_Sensors.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.406mm (16mil)                                           Round             55        PTH        294.24mm (11.58inch)
+T2      0.7mm (28mil)                                             Round             15        PTH        19.13mm (0.75inch)
+T3      1.067mm (42mil)                                           Round             19        PTH        117.00mm (4.61inch)
+T4      1.092mm (43mil)                                           Round             17        PTH        55.88mm (2.20inch)
+T5      2.69mm (106mil)                                           Round             2         PTH        18.16mm (0.71inch)
+T6      1.499mm (59mil)                                           Round             17        NPTH       55.88mm (2.20inch)
+T7      3.175mm (125mil)                                          Round             6         NPTH       195.12mm (7.68inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Total Processing Time (hh:mm:ss) : 00:00:00
